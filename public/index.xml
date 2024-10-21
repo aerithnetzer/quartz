@@ -6,11 +6,17 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome to Quartz</title>
+    <title>Welcome to my KyberGarden</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Mon, 21 Oct 2024 21:54:13 GMT</pubDate>
+    <description>I am Aerith Netzer, the nominal Digital Publishing and Repository Librarian at Northwestern. This is part notebook, blog, and portfolio for my works in my professional and personal knowledge acquisition.</description>
+    <pubDate>Mon, 21 Oct 2024 22:17:49 GMT</pubDate>
+  </item><item>
+    <title>LibLog 1</title>
+    <link>https://quartz.jzhao.xyz/devlog-1</link>
+    <guid>https://quartz.jzhao.xyz/devlog-1</guid>
+    <description>I have decided that I will be doing a sort of dev log for librarians. I would not be so bold as to call myself a developer per se, but I would call myself at least a dabbler in programming for the web and some applications.</description>
+    <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
