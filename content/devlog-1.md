@@ -2,7 +2,7 @@
 title: LibLog 1 
 date: 2024-09-26
 draft: false 
-tags: |
+tags:
   - Liblog
   - Papis
   - Neovim
