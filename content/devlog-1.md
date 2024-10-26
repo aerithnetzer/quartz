@@ -1,7 +1,7 @@
 ---
-title: LibLog 1 
+title: LibLog 1
 date: 2024-09-26
-draft: false 
+draft: false
 tags:
   - Liblog
   - Papis
@@ -9,7 +9,7 @@ tags:
   - Zettelkasten
 ---
 
-I have decided that I will be doing a sort of dev log for librarians. I would not be so bold as to call myself a developer *per se,* but I would call myself at least a dabbler in programming for the web and some applications.
+I have decided that I will be doing a sort of dev log for librarians. I would not be so bold as to call myself a developer _per se,_ but I would call myself at least a dabbler in programming for the web and some applications.
 
 ## Implementing new Functionality in Papis.Nvim
 
@@ -19,13 +19,13 @@ I am using the form functionality in the neovim API to catch a DOI or other link
 
 ## Building a small Flask App for Zettelkasten
 
-I have been working on [zktn](https://github.com/aerithnetzer/ztkn), a small flask app that creates a graph view of any directory containing one or more markdown documents. It uses the `pyviz` library and `networkx` to create a web server where the user can view and interact with nodes (notes) and edges of the graph. I have yet to test it at a very large scale, as I do not have that many notes. There are certainly optimizations and features that can be added to the tool, but now it is functional by just using `python ./ztkn/src.py /path/to/notes`. 
+I have been working on [zktn](https://github.com/aerithnetzer/ztkn), a small flask app that creates a graph view of any directory containing one or more markdown documents. It uses the `pyviz` library and `networkx` to create a web server where the user can view and interact with nodes (notes) and edges of the graph. I have yet to test it at a very large scale, as I do not have that many notes. There are certainly optimizations and features that can be added to the tool, but now it is functional by just using `python ./ztkn/src.py /path/to/notes`.
 
-I use neovim to take notes, write academic articles, and do data science. My entire workflow is in neovim. I have tried a lot of zettelkasten neovim plugins, but I have always found that the way I find most ergonomic *for me* is to simply `touch note.md` and start writing. Luckily, LazyVim's "lang.markdown" plugin helps in making creating the actual links between documents ergonomic, allowing me to simply use the note syntax and then use `ztkn` to build a graph.
+I use neovim to take notes, write academic articles, and do data science. My entire workflow is in neovim. I have tried a lot of zettelkasten neovim plugins, but I have always found that the way I find most ergonomic _for me_ is to simply `touch note.md` and start writing. Luckily, LazyVim's "lang.markdown" plugin helps in making creating the actual links between documents ergonomic, allowing me to simply use the note syntax and then use `ztkn` to build a graph.
 
 ## Accelerating Digital Humanities Research with CUDA on Northwestern's Supercomputer
 
-My home university, Northwestern, has an amazing supercomputer resource that I am lucky enough to be able to access for free as faculty. However, as upgrading enterprise infrastructure is a pain in the ass, we are running out of date versions of CUDA and libc. I am currently using [BERTopic](https://github.com/MaartenGr/BERTopic) to run topic modelling and similarity analysis on hundreds of thousands of academic articles, newspapers, visual arts, and novels to understand how the language of the anthropocene propogates through different media types and within different people who use the same medium of communication. 
+My home university, Northwestern, has an amazing supercomputer resource that I am lucky enough to be able to access for free as faculty. However, as upgrading enterprise infrastructure is a pain in the ass, we are running out of date versions of CUDA and libc. I am currently using [BERTopic](https://github.com/MaartenGr/BERTopic) to run topic modelling and similarity analysis on hundreds of thousands of academic articles, newspapers, visual arts, and novels to understand how the language of the anthropocene propogates through different media types and within different people who use the same medium of communication.
 
 Using BERTopic with CUDA was quite a pain. Actually, more specifically, using conda on a supercomputer is a pain. Depending on the order that you would install packages, different versions would be installed and some modules of PyTorch would outright not be found. Luckily, on Northwestern's HPC, we can use Torch 2.0 to be compatible with the relatively outdated glib version that Quest is running.
 
