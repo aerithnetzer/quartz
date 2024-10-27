@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Fire Code",
+        header: "Fira Code",
         body: "Fira Code",
         code: "Fira Code", // Updated code font
       },
