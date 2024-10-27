@@ -6,17 +6,23 @@
       <description>Last 10 notes on Kyberwarlord</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Blog Posts</title>
+    <link>https://kyberwarlord.com/Blog-Posts/</link>
+    <guid>https://kyberwarlord.com/Blog-Posts/</guid>
+    <description>Blog posts are longer-form, fleshed-out ideas and essays that may or may reference others. These are usually titled liblogs to reference my obsession with libraries of all kinds.</description>
+    <pubDate>Sun, 27 Oct 2024 18:01:54 GMT</pubDate>
+  </item><item>
     <title>Welcome to my KyberGarden</title>
     <link>https://kyberwarlord.com/</link>
     <guid>https://kyberwarlord.com/</guid>
     <description>I am Aerith Netzer, the nominal Digital Publishing and Repository Librarian at Northwestern. This is part notebook, blog, and portfolio for my works in my professional and personal knowledge acquisition.</description>
-    <pubDate>Sun, 27 Oct 2024 17:45:44 GMT</pubDate>
+    <pubDate>Sun, 27 Oct 2024 17:58:45 GMT</pubDate>
   </item><item>
     <title>The Holocene</title>
     <link>https://kyberwarlord.com/holocene</link>
     <guid>https://kyberwarlord.com/holocene</guid>
     <description>Holocene meaning “Recent Whole” Post-glacial geological epoch of past 10-12 thousand years. 1 Footnotes Quoted from the “Anthropocene” by Paul Crutzen and Eugene F.</description>
-    <pubDate>Sun, 27 Oct 2024 00:39:28 GMT</pubDate>
+    <pubDate>Sun, 27 Oct 2024 17:54:57 GMT</pubDate>
   </item><item>
     <title>Education</title>
     <link>https://kyberwarlord.com/education</link>
@@ -37,26 +43,26 @@
     <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>The Creative Mind</title>
-    <link>https://kyberwarlord.com/The-Long-Revolution/Part-1/The-Creative-Mind/the-creative-mind</link>
-    <guid>https://kyberwarlord.com/The-Long-Revolution/Part-1/The-Creative-Mind/the-creative-mind</guid>
+    <link>https://kyberwarlord.com/Reading-Notes/The-Long-Revolution/Part-1/The-Creative-Mind/the-creative-mind</link>
+    <guid>https://kyberwarlord.com/Reading-Notes/The-Long-Revolution/Part-1/The-Creative-Mind/the-creative-mind</guid>
     <description>The Creative Mind is the first section of the first part of The Long Revolution.</description>
     <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>The Long Revolution Part I</title>
-    <link>https://kyberwarlord.com/The-Long-Revolution/Part-1/the-long-revolution-part-1</link>
-    <guid>https://kyberwarlord.com/The-Long-Revolution/Part-1/the-long-revolution-part-1</guid>
+    <link>https://kyberwarlord.com/Reading-Notes/The-Long-Revolution/Part-1/the-long-revolution-part-1</link>
+    <guid>https://kyberwarlord.com/Reading-Notes/The-Long-Revolution/Part-1/the-long-revolution-part-1</guid>
     <description>Part 1 of The Long Revolution gives groundwork for the analysis of future parts of the book.</description>
     <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>The Long Revolution</title>
-    <link>https://kyberwarlord.com/The-Long-Revolution/the-long-revolution</link>
-    <guid>https://kyberwarlord.com/The-Long-Revolution/the-long-revolution</guid>
+    <link>https://kyberwarlord.com/Reading-Notes/The-Long-Revolution/the-long-revolution</link>
+    <guid>https://kyberwarlord.com/Reading-Notes/The-Long-Revolution/the-long-revolution</guid>
     <description>The Long Revolution is a book by Raymond Williams that seeks to analyze the perpetual revolutions in which we tend to find ourselves in modernity. Part I.</description>
     <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>LibLog 1</title>
-    <link>https://kyberwarlord.com/devlog-1</link>
-    <guid>https://kyberwarlord.com/devlog-1</guid>
+    <link>https://kyberwarlord.com/Blog-Posts/devlog-1</link>
+    <guid>https://kyberwarlord.com/Blog-Posts/devlog-1</guid>
     <description>I have decided that I will be doing a sort of dev log for librarians. I would not be so bold as to call myself a developer per se, but I would call myself at least a dabbler in programming for the web and some applications.</description>
     <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
   </item>
