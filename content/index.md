@@ -2,7 +2,9 @@
 title: Welcome to my KyberGarden
 ---
 
-I am Aerith Netzer, the nominal Digital Publishing and Repository Librarian at Northwestern. This is part notebook, blog, and portfolio for my works in my professional and personal knowledge acquisition.
+Welcome to Aerith's KyberGarden
+
+I am a full-time NeoVim 
 
 ## More About Me
 
@@ -13,11 +15,11 @@ Currently, I publish The Bulletin of Applied Transgender Studies and a forthcomi
 
 I have expertise in Python, particularly in supercomputing platforms such as SLURM to take advantage of the RAPIDSAI library by NVIDIA to accelerate humanities research. My digital publishing has given me valuable knowledge on web development and devops.
 
-## Read some of my blog posts!
+## Read some of my blog posts
 
-[[./devlog-1.md]]
+[[./Blog Posts/devlog-1.md]]
 
-## This is also partly a notebook!
+## This is also partly a notebook
 
 <-- You can use the explorer to navigate hierarchically (cringe),
 <br>
