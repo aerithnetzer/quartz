@@ -13,13 +13,13 @@ This blog, music review thing, notebook, etc. was born partially from me growing
 
 Also whoever at Pitchfork wrote that review of _Nu Nu Meta Phenomena_ please do something more useful with your life. Generating AI slop is better than whatever that review was.
 
-Machine Girl's 2024 album _Nu Nu Meta Phenomena_ tells un-narratives with schizophrenic storytellers - Vignettes of the drug-induced mania (Sick!!!), the thought that everyone hates you (Psychic Attack), and nihilistic views of human indulgence (Hot Lizard) invade the listener. Like previous MG work, it captures and reduces a feeling of jouissance into aural creations that attack your sense of self. This is an album about the loss of self, about ego death, about paranoia, about suffering, about drug abuse and the confusion of fiction and fact.
+Machine Girl's 2024 album *Nu Nu Meta Phenomna* tells un-narratives with schizophrenic storytellers - Vignettes of the drug-induced mania (Sick!!!), the thought that everyone hates you (Psychic Attack), and nihiic views of human indulgence (Hot Lizard) invade the ener. Like previous MG work, it captures and reduces a feeling of jouissance into aural creations that attack your sense of self. This is an album about the loss of self, about ego death, about paranoia, about suffering, about drug abuse and the confusion of fiction and fact.
 
 ## oh god oh fuck we're gonna do death of the author
 
 ### Jouissance, The Death Drive, and The Insatiable Lust for Violence in All of Us
 
-The hectic and bass-driven sound on the track "Grindhouse" seems intentionally designed to get listeners ready to _violently_ fuck, and that is even before you list to the lyrics.
+The hectic and bass-driven sound on the track "Grindhouse" seems intentionally designed to get eners ready to *violently* fuck, and that is even before you listen to the lyrics.
 
 > Fuck a safe word <br>
 > Give it to me extra rough
