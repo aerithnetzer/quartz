@@ -13,7 +13,7 @@ This blog, music review thing, notebook, etc. was born partially from me growing
 Also whoever at Pitchfork wrote that review of *Nu Nu Meta Phenomena* please do something more useful with your life. Generating AI slop is better than whatever that review was.
 
 
-Machine Girl's 2024 album *Nu Nu Meta Phenomna* tells un-narratives with schizophrenic storytellers - Vignettes of the drug-induced mania (Sick!!!), the thought that everyone hates you (Psychic Attack), and nihilistic views of human indulgence (Hot Lizard) invade the listener. Like previous MG work, it captures and reduces a feeling of jouissance into aural creations that attack your sense of self. This is an album about the loss of self, about ego death, about paranoia, about suffering, about drug abuse and the confusion of fiction and fact.
+Machine Girl's 2024 album *Nu Nu Meta Phenomena* tells un-narratives with schizophrenic storytellers - Vignettes of the drug-induced mania (Sick!!!), the thought that everyone hates you (Psychic Attack), and nihilistic views of human indulgence (Hot Lizard) invade the listener. Like previous MG work, it captures and reduces a feeling of jouissance into aural creations that attack your sense of self. This is an album about the loss of self, about ego death, about paranoia, about suffering, about drug abuse and the confusion of fiction and fact.
 
 ## oh god oh fuck we're gonna do death of the author
 
@@ -43,7 +43,7 @@ The person has been destroyed, and only desire remains.
 
 ### The Unbearable Pain of Overwhelming Hatred
 
-Schizodipshit, the penultimate track on the album, is an anthem of the bipolar. Between manic exultations threatening violence, extolling the frivolity of humanity, and narcissistic outbursts, there are 4 lines where the vocals are pitched heavily down: 
+Schizodipshit, the penultimate track on the album, is an anthem of the bipolar. Between manic exaltations threatening violence, extolling the frivolity of humanity, and narcissistic outbursts, there are 4 lines where the vocals are pitched heavily down: 
 
 > I'm so full of shit
 ...
