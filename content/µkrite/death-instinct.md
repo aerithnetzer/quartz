@@ -8,7 +8,7 @@ date: 2024-10-28
 *Art courtesy of [Machine Girl's Bandcamp](https://machinegirl.bandcamp.com/track/nu-nu-meta-phenomena)*
 
 ## My Apologia
-This blog, music review thing, notebook, etc. was born partially from me growing tired of the stupid shit that people say online. There is no substance, no conversation to be had. Just shitty one-liners to accrue internet clout. This blog, to which I clearly owe much of my intellectual development to scholars and blogs such as Mark Fisher's [k-punk](https://k-punk.org/), is an attempt to force me to think things through, to engage with things critically, and I hope, to 
+This blog, music review thing, notebook, etc. was born partially from me growing tired of the stupid shit that people say online. There is no substance, no conversation to be had. Just shitty one-liners to accrue internet clout. This blog, to which I clearly owe much of my intellectual development to scholars and blogs such as Mark Fisher's [k-punk](https://k-punk.org/), is an attempt to force me to think things through, to engage with things critically, and I hope, to be a better writer. 
 
 Also whoever at Pitchfork wrote that review of *Nu Nu Meta Phenomena* please do something more useful with your life. Generating AI slop is better than whatever that review was.
 
