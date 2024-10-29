@@ -1,10 +1,10 @@
 ---
-title: Welcome to my KyberGarden
+title: Welcome to my <i>KyberGarden</i>
 ---
 
 Welcome to Aerith's KyberGarden
 
-I am a full-time NeoVim 
+I am a full-time NeoVim nerd. 
 
 ## More About Me
 
