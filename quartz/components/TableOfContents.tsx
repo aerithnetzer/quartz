@@ -33,7 +33,7 @@ const TableOfContents: QuartzComponent = ({
         aria-controls="toc-content"
         aria-expanded={!fileData.collapseToc}
       >
-        <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
+        <h3 dangerouslySetInnerHTML={{ __html: i18n(cfg.locale).components.tableOfContents.title }}></h3>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="24"
@@ -73,7 +73,7 @@ const LegacyTableOfContents: QuartzComponent = ({ fileData, cfg }: QuartzCompone
   return (
     <details id="toc" open={!fileData.collapseToc}>
       <summary>
-        <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
+        <h3 dangerouslySetInnerHTML={{ __html: i18n(cfg.locale).components.tableOfContents.title }}></h3>
       </summary>
       <ul>
         {fileData.toc.map((tocEntry) => (
