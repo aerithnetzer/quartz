@@ -11,9 +11,9 @@ _Art courtesy of [Machine Girl's Bandcamp](https://machinegirl.bandcamp.com/trac
 
 This blog, music review thing, notebook, etc. was born partially from me growing tired of the stupid shit that people say online. There is no substance, no conversation to be had. Just shitty one-liners to accrue internet clout. This blog, to which I clearly owe much of my intellectual development to scholars and blogs such as Mark Fisher's [k-punk](https://k-punk.org/), is an attempt to force me to think things through, to engage with things critically, and I hope, to be a better writer.
 
-Also whoever at Pitchfork wrote that review of _Nu Nu Meta Phenomena_ please do something more useful with your life. Generating AI slop is better than whatever that review was.
+Also whoever at Pitchfork wrote that review of _MG Ultra_ please do something more useful with your life. Generating AI slop is better than whatever that review was.
 
-Machine Girl's 2024 album *Nu Nu Meta Phenomna* tells un-narratives with schizophrenic storytellers - Vignettes of the drug-induced mania (Sick!!!), the thought that everyone hates you (Psychic Attack), and nihiic views of human indulgence (Hot Lizard) invade the ener. Like previous MG work, it captures and reduces a feeling of jouissance into aural creations that attack your sense of self. This is an album about the loss of self, about ego death, about paranoia, about suffering, about drug abuse and the confusion of fiction and fact.
+Machine Girl's 2024 album *MG Ultra* tells un-narratives with schizophrenic storytellers - Vignettes of the drug-induced mania (Sick!!!), the thought that everyone hates you (Psychic Attack), and nihiic views of human indulgence (Hot Lizard) invade the ener. Like previous MG work, it captures and reduces a feeling of jouissance into aural creations that attack your sense of self. This is an album about the loss of self, about ego death, about paranoia, about suffering, about drug abuse and the confusion of fiction and fact.
 
 ## oh god oh fuck we're gonna do death of the author
 
