@@ -48,6 +48,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
           last tended: {segmentsElements}
         </p>
+    <meta name="fediverse:creator" content="@kyberwarlord@mastodon.social">
       )
     } else {
       return null
