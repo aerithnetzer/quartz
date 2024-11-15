@@ -1,7 +1,6 @@
 ---
 title: Welcome to my <i>KyberGarden</i>
 ---
-<a rel="me" href="https://mastodon.social/@kyberwarlord">Mastodon</a>
 Welcome to Aerith's KyberGarden
 
 I am a full-time NeoVim nerd. 

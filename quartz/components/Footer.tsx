@@ -21,6 +21,7 @@ export default ((opts?: Options) => {
           {Object.entries(links).map(([text, link]) => (
             <li>
               <a href={link}>{text}</a>
+              <a rel="me" href="https://mastodon.social/@kyberwarlord">Mastodon</a>
             </li>
           ))}
         </ul>
