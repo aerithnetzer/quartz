@@ -22,5 +22,4 @@ I have expertise in Python, particularly in supercomputing platforms such as SLU
 ## This is also partly a notebook
 
 <-- You can use the explorer to navigate hierarchically (cringe),
-<br>
 or you can use the graph/web view to navigate rhizomatically (based) -->
