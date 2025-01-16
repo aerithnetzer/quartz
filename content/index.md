@@ -3,22 +3,61 @@ title: Welcome to my <i>KyberGarden</i>
 ---
 Welcome to Aerith's KyberGarden
 
-I am a full-time NeoVim nerd. 
+I am Aerith Netzer, the Digital Publishing and Repository Librarian in the Digital Scholarship workgroup @ Northwestern University Libraries.
 
-## More About Me
+## Experience
 
-- You can view my [[./experience.md]] here.
-- You can view my [[./education.md]] here.
+### Digital Publishing and Repository Librarian
 
-Currently, I publish The Bulletin of Applied Transgender Studies and a forthcoming journal in Slavic Literature. Further, I am part of a team that seeks to understand how literature and the arts can serve as a "stratigraphic record" in understanding human's reaction to the Anthropocene over time.
+Northwestern University Libraries
+September 2023--Present
 
-I have expertise in Python, particularly in supercomputing platforms such as SLURM to take advantage of the RAPIDSAI library by NVIDIA to accelerate humanities research. My digital publishing has given me valuable knowledge on web development and devops.
+- Developing and maintaining ![Studies in Russian Philosophy, Literature, and Religious Thought](https://www.rplrt.org/).
+- Developing and maintaining the web version of the ![Bulletin of Applied Trans Studies](https://bulletin.appliedtransstudies.org/)
+- Developing text-analysis workflows on supercomputers for the humanities as part of a grant from the Mellon Foundation
+- Developing journal management system
+- Develop and maintain Open Education Resources
 
-## Read some of my blog posts
+## Technical Skills
 
-[[./Blog Posts/devlog-1.md]]
+- Python: Advanced
+  Particulary:
+    - BERTopic
+    - NLTK
+    - PyTorch (for text analysis)
+    - Networkx
+- SLURM: Advanced
+- Javascript: Moderate
+- Hugo (Static Site Generator): Advanced
+- Git: Advanced
+- AWS: Moderate (AWS Amplify Deployments)
+- Azure: Moderate (OpenAI Deployments)
+- LaTeX: Advanced
+- Typst: Moderate
+- Nginx: Beginner
 
-## This is also partly a notebook
+## Education
 
-<-- You can use the explorer to navigate hierarchically (cringe),
-or you can use the graph/web view to navigate rhizomatically (based) -->
+### Master of Business Administration
+
+Loyola University Chicago
+Conferred 2024
+
+### Master of Science --- Information Systems
+
+Loyola University Chicago
+Conferred 2024
+
+### Master of Library and Information Science
+
+Dominican University
+Conferred 2022
+
+### Bachelor of Arts in Philosophy
+
+DePaul University
+Conferred 2021
+
+## Press
+
+- Quotes in ![The Daily Northwestern](https://dailynorthwestern.com/2025/01/13/campus/nu-launches-russian-philosophy-literature-and-culture-research-journal/)
