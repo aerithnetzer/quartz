@@ -12,8 +12,8 @@ I am Aerith Netzer, the Digital Publishing and Repository Librarian in the Digit
 Northwestern University Libraries
 September 2023--Present
 
-- Developing and maintaining ![Studies in Russian Philosophy, Literature, and Religious Thought](https://www.rplrt.org/).
-- Developing and maintaining the web version of the ![Bulletin of Applied Trans Studies](https://bulletin.appliedtransstudies.org/)
+- Developing and maintaining [Studies in Russian Philosophy, Literature, and Religious Thought](https://www.rplrt.org/)
+- Developing and maintaining the web version of the [Bulletin of Applied Trans Studies](https://bulletin.appliedtransstudies.org/)
 - Developing text-analysis workflows on supercomputers for the humanities as part of a grant from the Mellon Foundation
 - Developing journal management system
 - Develop and maintain Open Education Resources
@@ -60,4 +60,4 @@ Conferred 2021
 
 ## Press
 
-- Quotes in ![The Daily Northwestern](https://dailynorthwestern.com/2025/01/13/campus/nu-launches-russian-philosophy-literature-and-culture-research-journal/)
+- Quotes in [The Daily Northwestern](https://dailynorthwestern.com/2025/01/13/campus/nu-launches-russian-philosophy-literature-and-culture-research-journal/)
