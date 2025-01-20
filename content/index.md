@@ -1,6 +1,7 @@
 ---
-title: Welcome to my <i>KyberGarden</i>
+title: Welcome to my KyberGarden
 ---
+
 Welcome to Aerith's KyberGarden
 
 I am Aerith Netzer, the Digital Publishing and Repository Librarian in the Digital Scholarship workgroup @ Northwestern University Libraries.
@@ -22,10 +23,10 @@ September 2023--Present
 
 - Python: Advanced
   Particulary:
-    - BERTopic
-    - NLTK
-    - PyTorch (for text analysis)
-    - Networkx
+  - BERTopic
+  - NLTK
+  - PyTorch (for text analysis)
+  - Networkx
 - SLURM: Advanced
 - Javascript: Moderate
 - Hugo (Static Site Generator): Advanced
