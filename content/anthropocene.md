@@ -1,7 +1,12 @@
 ---
+id: anthropocene
+aliases: []
+tags:
+  - Anthropocene
+  - Crawford Lake
+date: "2024-10-26"
+draft: True
 title: The Anthropocene
-date: 2024-10-26
-draft: 
 ---
 
 Proposed current geological age that is defined by humans' impact on the environment.
