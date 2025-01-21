@@ -3,7 +3,7 @@ id: deep-work
 aliases: []
 tags: []
 date: "2025-01-21"
-draft: true
+draft: false
 title: Deep Work Review
 ---
 
