@@ -60,5 +60,5 @@ DePaul University
 Conferred 2021
 
 ## Press
-
 - Quotes in [The Daily Northwestern](https://dailynorthwestern.com/2025/01/13/campus/nu-launches-russian-philosophy-literature-and-culture-research-journal/)
+<a rel="me" href="https://mastodon.social/@kyberwarlord">Mastodon</a>
