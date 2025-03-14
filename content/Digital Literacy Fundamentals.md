@@ -1,7 +1,10 @@
 ---
-title: Return to Tradition
-subtitle: Rethinking the way we teach students and their relationship to computing platforms
+id: Digital Literacy Fundamentals
+aliases: []
+tags: []
 draft: True
+subtitle: Rethinking the way we teach students and their relationship to computing platforms
+title: Return to Tradition
 ---
 
 <!-- markdownlint-disable MD013 -->

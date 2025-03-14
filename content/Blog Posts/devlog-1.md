@@ -1,12 +1,14 @@
 ---
-title: LibLog 1
-date: 2024-09-26
-draft: false
+id: devlog-1
+aliases: []
 tags:
   - Liblog
   - Papis
   - Neovim
   - Zettelkasten
+date: "2024-09-26"
+draft: false
+title: LibLog 1
 ---
 
 I have decided that I will be doing a sort of dev log for librarians. I would not be so bold as to call myself a developer _per se,_ but I would call myself at least a dabbler in programming for the web and some applications.
