@@ -24,7 +24,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
           <li>
-            <a rel="me" href="https://mastodon.social/@kyberwarlord">Mastodon</a>
+            <a rel="me" href="https://mastodon.social/@kyberwarlord"></a>
           </li>
         </ul>
       </footer>

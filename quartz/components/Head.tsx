@@ -46,7 +46,7 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
-        <link rel="me" href="https://mastodon.social/@kyberwarlord">Mastodon</link>
+        <link rel="me" href="https://mastodon.social/@kyberwarlord"></link>
       </head>
     )
   }
